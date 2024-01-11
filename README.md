@@ -1,5 +1,22 @@
 ***File Packer And Unpacker***
 
+**Platform requried :**
+
+window NT platform OR Linax Distributions
+
+**Architectural requirement :**
+
+Intel 32 bit processor
+
+**user Interface :**
+
+Graphical User Interface
+
+
+****Technology used****
+
+**we use Java Programming for Frontend and Backend** 
+
 
 **Description**
 
@@ -8,10 +25,6 @@
 *In case of packing activity all the files from that folder gets packed into one file*
 
 *In case of Unpaking activity we will extract all the files from that packed file*
-
-****Technology used****
-
-**we use Java Programming for Frontend ad Backend** 
 
 
 
